@@ -1,0 +1,54 @@
+dados coletados ate o momento
+
+despesas da camara  2026 e 2025
+(aqui tem despesa de Tudo)
+
+
+habitantes separados por idade e sexo nos municipios de
+Bayeux (PB)
+Cabedelo (PB)
+Campina Grande (PB)
+João Pessoa (PB)
+Santa Rita (PB)
+
+pib de cada municipio 
+Bayeux (PB)
+Cabedelo (PB)
+Campina Grande (PB)
+João Pessoa (PB)
+Santa Rita (PB)
+valores como : "Valor adicionado bruto da Agropecuária, 
+a preços correntes
+(R$ 1.000)"	"Valor adicionado bruto da Indústria,
+a preços correntes
+(R$ 1.000)"	"Valor adicionado bruto dos Serviços,
+a preços correntes 
+- exceto Administração, defesa, educação e saúde públicas e seguridade social
+(R$ 1.000)"	"Valor adicionado bruto da Administração, defesa, educação e saúde públicas e seguridade social, 
+a preços correntes
+(R$ 1.000)"	"Valor adicionado bruto total, 
+a preços correntes
+(R$ 1.000)"	"Impostos, líquidos de subsídios, sobre produtos, 
+a preços correntes
+(R$ 1.000)"	"Produto Interno Bruto, 
+a preços correntes
+(R$ 1.000)"	"Produto Interno Bruto per capita, 
+a preços correntes
+(R$ 1,00)"
+
+
+n de prefeitos e vereadores por cidade
+
+
+Bayeux (PB)
+Cabedelo (PB)
+Campina Grande (PB)
+João Pessoa (PB)
+Santa Rita (PB)
+
+
+
+falta (renda media das pessoas nas cidades): 
+
+
+
